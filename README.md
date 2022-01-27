@@ -7,4 +7,4 @@ The purpose of this project was to show that CRT indeed speed up the decryption 
 
 Here are the results:
 
-![image/graph rsa crt.jpg]
+![graph_rsa_crt](https://github.com/sam7-5/RSA-CRT/blob/main/graph%20rsa%20crt.jpg)
